@@ -1,5 +1,5 @@
 So I am going to rename dracula.txt with git mv and then remove three of the four paragraphs and then commit.
-I expect that despite the git mv usage, git and GitHub will still not recognise the renamed and changed file as a rename.
+I expect that despite the ``git mv`` usage, git and GitHub will still not recognise the renamed and changed file as a rename.
 
 So steps are:
 1. ``git mv dracula.txt anoldstory.txt``
